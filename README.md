@@ -16,7 +16,8 @@ Tutti gli script possono essere testati direttamente nel browser.<br>
   - [_verifica se tutti i valori sono positivi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/verificaSeTuttiPositiviLista.fs)
   - [_verifica se tutti i valori soddisfano un predicato_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/verificaSeTuttiSoddisfanoPredicato.fs)
   - [_capovolgi lista_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/capovolgiLista.fs)
-
+  - [...]
+- ...
 
 
 
