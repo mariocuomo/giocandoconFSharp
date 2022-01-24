@@ -6,5 +6,5 @@ Alcuni esercizi e test sviluppati in linguaggio **F#**.
 
 
 - **LISTE**
-  - [_ricerca del massimo in una lista_]()
+  - [_ricerca del massimo in una lista_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/massimoLista.fs)
   - 
