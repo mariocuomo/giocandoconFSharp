@@ -17,7 +17,12 @@ Tutti gli script possono essere testati direttamente nel browser.<br>
   - [_verifica se tutti i valori soddisfano un predicato_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/verificaSeTuttiSoddisfanoPredicato.fs)
   - [_capovolgi lista_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/capovolgiLista.fs)
   - [...]
-- ...
+- **ALBERI BINARI**
+  - [_conta nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/contaNodi.fs)
+  - [_altezza albero_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/altezzaAlbero.fs)
+  - [_numero foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/numeroFoglie.fs)
+  - [...]
+- [...]
 
 
 
