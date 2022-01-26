@@ -21,6 +21,8 @@ Tutti gli script possono essere testati direttamente nel browser.<br>
   - [_conta nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/contaNodi.fs)
   - [_altezza albero_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/altezzaAlbero.fs)
   - [_numero foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/numeroFoglie.fs)
+  - [_verifica se tutte le foglie soddisfano condizione_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/verificaCondizioneSuFoglie.fs)
+
   - [...]
 - [...]
 
