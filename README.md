@@ -22,7 +22,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_altezza albero_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/altezzaAlbero.fs)
   - [_numero foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/numeroFoglie.fs)
   - [_verifica se tutte le foglie soddisfano condizione_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/verificaCondizioneSuFoglie.fs)
-  - [...]
+  - [_ricerca di cammino radice-foglia che termina con una foglia target_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/camminoradicefogliatarget.fs)
 - [...]
 
 
