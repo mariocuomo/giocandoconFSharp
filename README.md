@@ -27,7 +27,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_verifica se albero è completo_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/verificaCompletezza.fs)
   - [...]
 - **ALBERI DI GRADO ARBITRARIO**
-  - [_branching factor di factor_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/listaFoglie.fs)
+  - [_lista di foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/listaFoglie.fs)
   - [...]
 - **FUNZIONI DI ORDINE SUPERIORE**
   - [_map_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/map.fs)
