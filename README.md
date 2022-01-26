@@ -16,7 +16,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_verifica se tutti i valori sono positivi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/verificaSeTuttiPositiviLista.fs)
   - [_verifica se tutti i valori soddisfano un predicato_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/verificaSeTuttiSoddisfanoPredicato.fs)
   - [_capovolgi lista_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/capovolgiLista.fs)
-  - [_verifica se la lista è una serie di Fibonacci_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/listaFibonacci.fs)
+  - [_verifica se la lista è una parte della serie di Fibonacci_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/liste/listaFibonacci.fs)
   - [...]
 - **ALBERI BINARI**
   - [_conta nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/contaNodi.fs)
