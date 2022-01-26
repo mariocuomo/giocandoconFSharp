@@ -6,10 +6,11 @@ let lista1 = [1;3;5;7;9]
 numeroDispari: int -> bool
 numeroDispari x = true se x è dispari
 *)
-let rec numeroDispari x = 
+let numeroDispari x = 
     if x%2=0 then false
     else true
 
+//oppure in maniera più elegante let numeroDispari x = not (x%2=0)
 
 (*
 verificaSeTuttiSoddisfanoPredicato: int list -> (int -> bool) -> bool

@@ -14,7 +14,8 @@ massimoLst lst = massimo valore in lst
 *)
 let rec massimoLst lst =
         match lst with
-        | [] -> -14
+        | [] -> raise (System.ArgumentException("Lista vuota"))
+        | [x] -> x
         | x::[y] -> massimo x y
         | x::rest -> massimo x (massimoLst rest)
 
