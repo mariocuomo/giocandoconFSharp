@@ -1,3 +1,6 @@
+type 'a btree = Empty | Tr of 'a * 'a btree * 'a btree
+
+
 let albero3 = Tr(1,Tr(2,Tr(5,Tr(8,Tr(20,Empty,Tr(29,Empty,Tr(15,Empty,Empty))),Empty),Empty),Tr(11,Empty,Empty)),Tr(3,Tr(6,Empty,Empty),Tr(4,Empty,Tr(10,Empty,Tr(19,Empty,Empty)))))
 
 
