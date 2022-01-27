@@ -29,6 +29,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_verifica se albero è completo_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiBinari/verificaCompletezza.fs)
   - [...]
 - **ALBERI DI GRADO ARBITRARIO**
+   <br><p align="center"><img src="https://github.com/mariocuomo/giocandoconFSharp/blob/main/imgs/alberiNari.jpg" width="520"></p>
   - [_lista di foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/listaFoglie.fs)
   - [_ricerca di cammino radice-foglia target_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/camminoRadiceFogliaTarget.fs)
   - [_lista nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/listaNodi.fs)
