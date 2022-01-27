@@ -28,6 +28,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [...]
 - **ALBERI DI GRADO ARBITRARIO**
   - [_lista di foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/listaFoglie.fs)
+  - [_lista di foglie_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/camminoRadiceFogliaTarget.fs)
   - [...]
 - **FUNZIONI DI ORDINE SUPERIORE**
   - [_map_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/map.fs)
