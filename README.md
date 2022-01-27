@@ -35,6 +35,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
 - **FUNZIONI DI ORDINE SUPERIORE**
   - [_map_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/map.fs)
   - [_filter_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/filter.fs)
+  - [_distinct_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/distinct.fs)
   - [...]
 - **ORDINAMENTO**
   - [_Selection Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/selectionSort.fs)
