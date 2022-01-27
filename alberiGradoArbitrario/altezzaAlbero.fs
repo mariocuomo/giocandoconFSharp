@@ -1,6 +1,13 @@
 type ’a ntree = Tr of ’a * ’a ntree list
 
 
+(*
+massimo: int*int -> int
+massimo (x,y) = massimo valore tra x e y
+*)
+let massimo (x:int, y:int) =
+    if x>y then x
+    else y
 
 (*
 altezzaAlbero: 'a ntree -> int
