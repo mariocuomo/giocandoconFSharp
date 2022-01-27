@@ -39,7 +39,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [...]
 - **ORDINAMENTO**
   - [_Selection Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/selectionSort.fs)
-  - [_Merge_ Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/mergeSort.fs)
+  - [_Merge Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/mergeSort.fs)
   - [...]
 - [...]
 
