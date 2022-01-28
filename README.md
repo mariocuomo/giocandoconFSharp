@@ -50,6 +50,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_Merge Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/mergeSort.fs)
   - [...]
 - **GRAFI**
+   <br><p align="center"><img src="https://github.com/mariocuomo/giocandoconFSharp/blob/main/imgs/graph.jpg" width="520"></p>
   - [_lista nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/listaNodi.fs)
   - [_vicini di uno nodo_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/vicini.fs)
   - [_cammino da start a goal_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/cercacammino.fs)
