@@ -50,8 +50,3 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_Merge Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/mergeSort.fs)
   - [...]
 - [...]
-
-
-
----
-[_Mario Cuomo_](https://mariocuomo.github.io/)
