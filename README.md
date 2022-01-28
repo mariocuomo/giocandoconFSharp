@@ -36,11 +36,13 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_altezza albero_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/alberiGradoArbitrario/altezzaAlbero.fs)
   - [...]
 - **FUNZIONI DI ORDINE SUPERIORE**
+   <br><p align="center"><img src="https://github.com/mariocuomo/giocandoconFSharp/blob/main/imgs/map.jpg" width="200"></p>
   - [_map_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/map.fs)
   - [_filter_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/filter.fs)
   - [_distinct_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/funzioniDiOrdineSuperiore/distinct.fs)
   - [...]
 - **ORDINAMENTO**
+   <br><p align="center"><img src="https://github.com/mariocuomo/giocandoconFSharp/blob/main/imgs/ordinamento.jpg" width="200"></p>
   - [_Selection Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/selectionSort.fs)
   - [_Merge Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/mergeSort.fs)
   - [...]
