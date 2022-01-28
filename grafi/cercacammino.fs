@@ -14,10 +14,10 @@ let rec contiene x lst =
 cercaCammino: 'a graph -> 'a -> 'a -> 'a list
 cercaCammino g start goal =  cammino nel grafo g da start a goal
 
-from_node: 'a -> 'a list
+from_node: 'a -> 'a list -> 'a list
 from_node start visited =  cammino nel grafo g da start a goal che non passa per nodi in visited
 
-from_list: 'a list -> 'a list
+from_list: 'a list -> 'a list -> 'a list
 from_list visited lst =  cammino nel grafo g che parte da uno dei nodi di lst fino a goal e che non passa per nodi in visited
 *)
 let cercaCammino g start goal = 
