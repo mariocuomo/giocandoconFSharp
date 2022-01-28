@@ -52,5 +52,6 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
 - **GRAFI**
   - [_lista nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/listaNodi.fs)
   - [_vicini di uno nodo_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/vicini.fs)
+  - [_cammino da start a goal_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/cercacammino.fs)
   - [...]
 - [...]
