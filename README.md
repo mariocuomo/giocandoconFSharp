@@ -49,4 +49,7 @@ Tutti gli script possono essere testati direttamente in una applicazione web.<br
   - [_Selection Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/selectionSort.fs)
   - [_Merge Sort_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/ordinamento/mergeSort.fs)
   - [...]
+- **GRAFI**
+  - [_lista nodi_](https://github.com/mariocuomo/giocandoconFSharp/blob/main/grafi/listaNodi.fs)
+  - [...]
 - [...]
